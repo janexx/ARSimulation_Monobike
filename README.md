@@ -14,7 +14,8 @@ The style of the bike is inspired by the German history. “Simson” was a comp
 
 ## Credits
 
-* The 3D model is based on Monobike (UV Fix) by Warkarma, Monobike by romullus, and Motowheel by Costr (Viverna), licensed under CC-Attribution ShareAlike.
+* The 3D model is based on <a href="https://sketchfab.com/3d-models/motowheel-eb238f63754247659a50d52395daf073">Motowheel by Costr (Viverna) </a>, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+* <a href="https://de.wikipedia.org/wiki/Zweitaktmotor#/media/Datei:Two-Stroke_Engine.gif">Animation of a 2-stroke engine cycle </a> by A. Schierwagen licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
 * <a href="https://www.freepik.com/icon/information_3435347">Icon by Freepik</a>
 * <a href="https://assetstore.unity.com/packages/2d/gui/icons/ux-flat-icons-free-202525">UX Flat Icons Asset Pack</a>
 * <a href="https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488">Quick Outline Asset Pack</a>
